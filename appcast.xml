@@ -1,18 +1,21 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>NiceDock</title>
         <item>
-            <title>0.4.9</title>
-            <pubDate>Wed, 23 Sep 2026 14:28:01 +0530</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+            <title>5.0.0</title>
+            <pubDate>Wed, 23 Sep 2026 14:33:55 +0530</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dheeraj-juvvadi.github.io/NiceDock-updates/NiceDock-0.4.9-23-local-signed.app.zip" length="7487485" type="application/octet-stream" sparkle:edSignature="wS8ay9iYNT5/PBzdxwvsorLGbyqDN8rWjk8/kPIbSefByMLPb7VZamgErp4QYvgKwnt2AScuwVFC+FABoA8ZAQ=="></enclosure>
+            <enclosure url="https://dheeraj-juvvadi.github.io/NiceDock-updates/NiceDock-5.0.0-24-local-signed.app.zip" length="7487475" type="application/octet-stream" sparkle:edSignature="JzsEn/XxeTegLfkjqysMC8ueA/vOTzchT60GsfIOQ/t53K6QI7h7ROLWF3teM44JCmC9rOJz6H+NV1fvpbjHAw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: NkKT64X/0PgflCSWbp8zeIqCA2+WAyQk5M1smQOLMirLaj4Uz5P/W02qN7D1OSI3SKMd3QfR2GFcJ7wQ2wT5BA==
-length: 1051
+</rss>
+<!-- sparkle-signatures:
+edSignature: /EH0z2oPLxN0d0sTIQubtXFk93ORzVWZ3myVzorPDT5BXN58lIS9StVMuOA/IbkBBY7dEHSR3FnsBypuEX9aBQ==
+length: 1043
 -->
