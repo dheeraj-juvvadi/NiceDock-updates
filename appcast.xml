@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NiceDock</title>
+        <item>
+            <title>0.4.8</title>
+            <pubDate>Wed, 23 Sep 2026 14:22:00 +0530</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dheeraj-juvvadi/NiceDock-updates/releases/download/v0.4.8/NiceDock-0.4.8-22-local-signed.app.zip" length="7487532" type="application/octet-stream" sparkle:edSignature="L99uhwn2UprzLeiYvXlHsX/xxQJJTU5kdwE2n5WV30Hq8KmIudXZ+VxOgVcR16Gc82NTUh6VIOdRHf3A/FnyBA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: t6Pyqr8Esx7RjS3sMvoCgltrYW7yxkckeP2yYJCqrA+XUArglF7sNKYcQMr1BZqAM0Ycj/b6572Eoki5UfpSBQ==
+length: 1077
+-->
