@@ -6,16 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NiceDock</title>
         <item>
-            <title>5.2.5</title>
-            <pubDate>Thu, 24 Sep 2026 18:01:02 +0530</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>5.2.5</sparkle:shortVersionString>
+            <title>5.3.0</title>
+            <pubDate>Sat, 26 Sep 2026 08:04:18 +0530</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>5.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dheeraj-juvvadi.github.io/NiceDock-updates/NiceDock-5.2.5-38-local-signed.app.zip" length="8292289" type="application/octet-stream" sparkle:edSignature="rDfFN0mEgSlXyTWhrqD2VHOb3RikR0uMuIBBXTCT8g/79zXy1Q7EyMHpOdiQ5twBQGnUKu+eGiZfenTDLXWZAw=="/>
+            <enclosure url="https://dheeraj-juvvadi.github.io/NiceDock-updates/NiceDock-5.3.0-39-local-signed.app.zip" length="8531912" type="application/octet-stream" sparkle:edSignature="SEnFdg9CVDVPkn3lE7QhWmX/rL0YdS1HqyWn8Gc+nxL7VeEjTeM2Z1eMzQ1/+xudSERrp+lW955OG7JZvxIFCA=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: lYUT7vKa4+pvPEW+jAUxVbfFS9BhRtpPFj0N/LQTptUT71jaohwqVQqd1eVe0c7VF9v++ION5EzUdsUFwXP0Dg==
+edSignature: ImSXDSaYf2br2kGn92DL6ZOyx36MjqlQomJx/W0mBvOj/Vln7GwixajwOw5312hS7pVt3jQBQgpkzNxShd8zAg==
 length: 1043
 -->
